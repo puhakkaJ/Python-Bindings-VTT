@@ -1,0 +1,3 @@
+/Users/jennipuhakka/Python-Bindings-VTT/build/CMakeFiles/ImageModifierModule.dir
+/Users/jennipuhakka/Python-Bindings-VTT/build/CMakeFiles/edit_cache.dir
+/Users/jennipuhakka/Python-Bindings-VTT/build/CMakeFiles/rebuild_cache.dir
